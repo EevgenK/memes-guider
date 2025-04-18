@@ -3,7 +3,7 @@ import { Card, CardBody, Link, CardFooter, Button, Image } from '@heroui/react';
 
 import { Meme } from '../utils/memes';
 
-const MemeCard = ({ id, name, image, likes }: Meme) => {
+const MemeCard = ({ name, image, likes }: Meme) => {
   return (
     <Card as="li" className="p-4 text-secondary bg-primary">
       <CardBody className="overflow-visible py-2 ">

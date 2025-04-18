@@ -4,19 +4,20 @@ App allows to save and change memes you like. It works locally on your devise so
 
 ## 🛠️ Tech Stack
 
-| Technology      | Purpose              |
-| --------------- | -------------------- |
-| **Next.js**     | UI development       |
-| **HeroUI**      | UI styling and forms |
-| **Type Script** | For typify           |
+| Technology         | Purpose              |
+| ------------------ | -------------------- |
+| **Next.js**        | UI development       |
+| **HeroUI**         | UI styling and forms |
+| **Type Script**    | For typify           |
+| **Locale Storage** | For saving changes   |
 
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/EevgenK/rental-car
-cd rentalcar
+git clone https://github.com/EevgenK/memes-guider
+cd memes-guider
 ```
 
 ### 2. Install Dependencies
