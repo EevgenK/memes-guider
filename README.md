@@ -1,4 +1,4 @@
-# memes-guide – Web Application for saving and changing Memes
+# Memes-Guide – Web Application for saving and changing Memes
 
 App allows to save and change memes you like. It works locally on your devise so you can use it safely.
 

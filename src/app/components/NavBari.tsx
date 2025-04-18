@@ -48,7 +48,7 @@ const NavBari = () => {
         <NavList items={menuItems} Element={NavbarItem} />
       </NavbarContent>
 
-      <NavbarMenu>
+      <NavbarMenu className="bg-black/80">
         <NavList items={menuItems} Element={NavbarMenuItem} />
       </NavbarMenu>
     </Navbar>
