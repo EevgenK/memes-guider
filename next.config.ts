@@ -1,7 +1,13 @@
-import type { NextConfig } from "next";
+import type { NextConfig } from 'next';
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  reactStrictMode: false,
+  transpilePackages: [
+    '@heroui/card',
+    '@heroui/system',
+    '@heroui/theme',
+    '@heroui/react-utils',
+  ],
 };
 
 export default nextConfig;
